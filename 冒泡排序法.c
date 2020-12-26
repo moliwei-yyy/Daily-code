@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-
-
 void bubble(int array[], int n) {
 
 	int i = 0;
@@ -31,4 +29,5 @@ int main() {
 	for (i = 0; i < 10; i++) {
 		printf("%d ", array[i]);
 	}
+return 0;
 }
